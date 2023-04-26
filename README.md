@@ -4,12 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-g9&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-g9" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab-g9" alt="arnab-g9" /></a> </p>
-
-
-
 - 🔭 I’m currently working on **e-commerce food delivery site**
 
 - 🌱 I’m currently learning **MERN stack development**
@@ -19,6 +13,14 @@
 - 💬 Ask me about **Java, SQL & Frontend development**
 
 - ⚡ Fun fact **I think I am funny**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-g9&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-g9" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab-g9" alt="arnab-g9" /></a> </p>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

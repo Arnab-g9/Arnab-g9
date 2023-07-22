@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)
 
 <h1 align="center">Hi 👋, I'm Arnab Ghorai</h1>
-<h3 align="center">A passionate Full stack & Java developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-g9&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-g9" /> </p>
 

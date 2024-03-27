@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Arnab Ghorai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://image.lexica.art/full_webp/79d1d66b-1f1a-4571-b71f-f0b8700707a2"/>
+<img align="right" alt="Coding" width="100%" src="https://image.lexica.art/full_webp/79d1d66b-1f1a-4571-b71f-f0b8700707a2"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-g9&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-g9" /> </p>
 

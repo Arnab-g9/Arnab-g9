@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **arnabghorai15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EYb7RaB5gWzSlAoAPVTCnck7JvXeCEqN/view?usp=sharing](https://drive.google.com/file/d/1EYb7RaB5gWzSlAoAPVTCnck7JvXeCEqN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
